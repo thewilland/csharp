@@ -1,0 +1,15 @@
+/Users/sofjamajeva/Desktop/lesson 1/08/obj/Debug/net6.0/08.csproj.AssemblyReference.cache
+/Users/sofjamajeva/Desktop/lesson 1/08/obj/Debug/net6.0/08.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofjamajeva/Desktop/lesson 1/08/obj/Debug/net6.0/08.AssemblyInfoInputs.cache
+/Users/sofjamajeva/Desktop/lesson 1/08/obj/Debug/net6.0/08.AssemblyInfo.cs
+/Users/sofjamajeva/Desktop/lesson 1/08/obj/Debug/net6.0/08.csproj.CoreCompileInputs.cache
+/Users/sofjamajeva/Desktop/lesson 1/08/bin/Debug/net6.0/08
+/Users/sofjamajeva/Desktop/lesson 1/08/bin/Debug/net6.0/08.deps.json
+/Users/sofjamajeva/Desktop/lesson 1/08/bin/Debug/net6.0/08.runtimeconfig.json
+/Users/sofjamajeva/Desktop/lesson 1/08/bin/Debug/net6.0/08.dll
+/Users/sofjamajeva/Desktop/lesson 1/08/bin/Debug/net6.0/08.pdb
+/Users/sofjamajeva/Desktop/lesson 1/08/obj/Debug/net6.0/08.dll
+/Users/sofjamajeva/Desktop/lesson 1/08/obj/Debug/net6.0/refint/08.dll
+/Users/sofjamajeva/Desktop/lesson 1/08/obj/Debug/net6.0/08.pdb
+/Users/sofjamajeva/Desktop/lesson 1/08/obj/Debug/net6.0/08.genruntimeconfig.cache
+/Users/sofjamajeva/Desktop/lesson 1/08/obj/Debug/net6.0/ref/08.dll

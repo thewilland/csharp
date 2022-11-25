@@ -1,0 +1,15 @@
+/Users/sofjamajeva/Desktop/lesson 1/03/bin/Debug/net6.0/03
+/Users/sofjamajeva/Desktop/lesson 1/03/bin/Debug/net6.0/03.deps.json
+/Users/sofjamajeva/Desktop/lesson 1/03/bin/Debug/net6.0/03.runtimeconfig.json
+/Users/sofjamajeva/Desktop/lesson 1/03/bin/Debug/net6.0/03.dll
+/Users/sofjamajeva/Desktop/lesson 1/03/bin/Debug/net6.0/03.pdb
+/Users/sofjamajeva/Desktop/lesson 1/03/obj/Debug/net6.0/03.csproj.AssemblyReference.cache
+/Users/sofjamajeva/Desktop/lesson 1/03/obj/Debug/net6.0/03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofjamajeva/Desktop/lesson 1/03/obj/Debug/net6.0/03.AssemblyInfoInputs.cache
+/Users/sofjamajeva/Desktop/lesson 1/03/obj/Debug/net6.0/03.AssemblyInfo.cs
+/Users/sofjamajeva/Desktop/lesson 1/03/obj/Debug/net6.0/03.csproj.CoreCompileInputs.cache
+/Users/sofjamajeva/Desktop/lesson 1/03/obj/Debug/net6.0/03.dll
+/Users/sofjamajeva/Desktop/lesson 1/03/obj/Debug/net6.0/refint/03.dll
+/Users/sofjamajeva/Desktop/lesson 1/03/obj/Debug/net6.0/03.pdb
+/Users/sofjamajeva/Desktop/lesson 1/03/obj/Debug/net6.0/03.genruntimeconfig.cache
+/Users/sofjamajeva/Desktop/lesson 1/03/obj/Debug/net6.0/ref/03.dll
