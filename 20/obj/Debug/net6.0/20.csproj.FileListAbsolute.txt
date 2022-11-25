@@ -1,0 +1,15 @@
+/Users/sofjamajeva/Desktop/lesson 2/20/bin/Debug/net6.0/20
+/Users/sofjamajeva/Desktop/lesson 2/20/bin/Debug/net6.0/20.deps.json
+/Users/sofjamajeva/Desktop/lesson 2/20/bin/Debug/net6.0/20.runtimeconfig.json
+/Users/sofjamajeva/Desktop/lesson 2/20/bin/Debug/net6.0/20.dll
+/Users/sofjamajeva/Desktop/lesson 2/20/bin/Debug/net6.0/20.pdb
+/Users/sofjamajeva/Desktop/lesson 2/20/obj/Debug/net6.0/20.csproj.AssemblyReference.cache
+/Users/sofjamajeva/Desktop/lesson 2/20/obj/Debug/net6.0/20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofjamajeva/Desktop/lesson 2/20/obj/Debug/net6.0/20.AssemblyInfoInputs.cache
+/Users/sofjamajeva/Desktop/lesson 2/20/obj/Debug/net6.0/20.AssemblyInfo.cs
+/Users/sofjamajeva/Desktop/lesson 2/20/obj/Debug/net6.0/20.csproj.CoreCompileInputs.cache
+/Users/sofjamajeva/Desktop/lesson 2/20/obj/Debug/net6.0/20.dll
+/Users/sofjamajeva/Desktop/lesson 2/20/obj/Debug/net6.0/refint/20.dll
+/Users/sofjamajeva/Desktop/lesson 2/20/obj/Debug/net6.0/20.pdb
+/Users/sofjamajeva/Desktop/lesson 2/20/obj/Debug/net6.0/20.genruntimeconfig.cache
+/Users/sofjamajeva/Desktop/lesson 2/20/obj/Debug/net6.0/ref/20.dll
