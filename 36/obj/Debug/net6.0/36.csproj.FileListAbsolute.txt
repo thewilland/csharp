@@ -1,0 +1,15 @@
+/Users/sofjamajeva/Desktop/c sharp thingies/36/bin/Debug/net6.0/36
+/Users/sofjamajeva/Desktop/c sharp thingies/36/bin/Debug/net6.0/36.deps.json
+/Users/sofjamajeva/Desktop/c sharp thingies/36/bin/Debug/net6.0/36.runtimeconfig.json
+/Users/sofjamajeva/Desktop/c sharp thingies/36/bin/Debug/net6.0/36.dll
+/Users/sofjamajeva/Desktop/c sharp thingies/36/bin/Debug/net6.0/36.pdb
+/Users/sofjamajeva/Desktop/c sharp thingies/36/obj/Debug/net6.0/36.csproj.AssemblyReference.cache
+/Users/sofjamajeva/Desktop/c sharp thingies/36/obj/Debug/net6.0/36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofjamajeva/Desktop/c sharp thingies/36/obj/Debug/net6.0/36.AssemblyInfoInputs.cache
+/Users/sofjamajeva/Desktop/c sharp thingies/36/obj/Debug/net6.0/36.AssemblyInfo.cs
+/Users/sofjamajeva/Desktop/c sharp thingies/36/obj/Debug/net6.0/36.csproj.CoreCompileInputs.cache
+/Users/sofjamajeva/Desktop/c sharp thingies/36/obj/Debug/net6.0/36.dll
+/Users/sofjamajeva/Desktop/c sharp thingies/36/obj/Debug/net6.0/refint/36.dll
+/Users/sofjamajeva/Desktop/c sharp thingies/36/obj/Debug/net6.0/36.pdb
+/Users/sofjamajeva/Desktop/c sharp thingies/36/obj/Debug/net6.0/36.genruntimeconfig.cache
+/Users/sofjamajeva/Desktop/c sharp thingies/36/obj/Debug/net6.0/ref/36.dll
